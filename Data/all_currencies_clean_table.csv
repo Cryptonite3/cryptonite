@@ -1,4 +1,4 @@
-Name,Symbol,Market,Price,Circulate,Volume,Hourly,Daily,Weekly
+Name,Symbol,MarketCap,Price,Circulate,Volume,Hourly,Daily,Weekly
 bitcoin,BTC,150702985544.0,8940.74,16855762.0,8103300000.0,-0.63,11.22,3.58
 ethereum,ETH,87546972836.0,897.729,97520490.9678,3062570000.0,-0.41,11.99,-0.25
 ripple,XRP,40627708203.1,1.04149,39009215838.0,2504810000.0,-0.37,32.86,23.94
